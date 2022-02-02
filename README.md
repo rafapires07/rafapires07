@@ -2,13 +2,10 @@
 
 ### Eu sou o Rafael Pires!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Data Science / Data Analytics
+- 🌱 I’m currently learning Data Science - Python - SQL
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
-- 
+
 <div align="center">
   <a href="https://github.com/rafapires07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafapires07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
